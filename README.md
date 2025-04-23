@@ -19,19 +19,13 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 1. Open VS Code and open a terminal (`Ctrl + ~`).
 2. Clone the project repository:
    ```bash
-   git clone <your-backend-repo-url>
-   cd <your-project-directory>
+   cd smart_home_backend
    ```
-3. Create a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-4. Install project dependencies:
+3. Install project dependencies:
    ```bash
    pip install django djangorestframework djangorestframework-simplejwt corsheaders
    ```
-5. Run database migrations:
+4. Run database migrations:
    ```bash
    python manage.py migrate
    ```
@@ -49,7 +43,6 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 
 1. Open a terminal and clone the frontend repository:
    ```bash
-   git clone <your-frontend-repo-url>
    cd smart-home-frontend
    ```
 2. Install dependencies:
@@ -61,18 +54,18 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 
 ## 3. ▶️ Running the Backend
 
-1. Activate the virtual environment:
-   ```bash
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-2. Run the development server:
+1. Run the development server:
    ```bash
    python manage.py runserver
    ```
-3. Backend will be available at:
+2. Backend will be available at:
    ```
    http://127.0.0.1:8000/
    ```
+
+   > **Login Credentials**  
+   > Username: `admin`  
+   > Password: `admin`
 
 ---
 
