@@ -12,7 +12,8 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 - Install **Visual Studio Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 - Install **Python 3.10+**: [https://www.python.org/downloads/](https://www.python.org/downloads/)
 - Install **pip** (Python package installer)
-- Install **Git**: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+For a detailed step-by-step guide on installing python on Windows:
+https://www.geeksforgeeks.org/how-to-install-python-on-windows/
 
 ### Steps
 
