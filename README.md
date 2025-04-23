@@ -5,6 +5,15 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 
 ---
 
+## Project Setup
+
+1. Download the project as a ZIP:
+   - Click on the `< > Code` button (on the right side of the page)
+   - Click **Download ZIP**
+2. Unzip the downloaded folder.
+3. Open **Visual Studio Code**
+   - Click **Open Folder** and select the **smart_home** unzipped folder.
+
 ## 1. 🔧 Backend Setup (Django)
 
 ### Prerequisites
