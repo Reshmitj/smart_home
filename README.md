@@ -87,9 +87,9 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 
 | Role    | Username   | Password   |
 |---------|------------|------------|
-| Admin   | admin      | admin123   |
-| User    | testuser1  | user123    |
-| User    | testuser2  | user123    |
+| Admin   | admin1      | admin   |
+| User    | john_user1  | test    |
+| User    | testuser2  | test    |
 
 ---
 
