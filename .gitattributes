@@ -1,4 +1,8 @@
-# Force GitHub linguist to recognize both Python and JavaScript
+# Force GitHub to detect backend and frontend languages correctly
 *.py linguist-language=Python
 *.js linguist-language=JavaScript
 *.jsx linguist-language=JavaScript
+
+# Ensure both backend and frontend are considered
+backend/* linguist-detectable=true
+frontend/* linguist-detectable=true
