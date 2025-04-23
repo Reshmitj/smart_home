@@ -60,7 +60,7 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
    ```
 2. Backend will be available at:
    ```
-   http://127.0.0.1:8000/
+   http://127.0.0.1:8000/admin
    ```
 
    > **Login Credentials**  
@@ -93,22 +93,3 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 
 ---
 
-## 6. ⚙️ Connect to Backend as Superuser
-
-To view the database tables (admin panel):
-
-1. Create a superuser:
-   ```bash
-   python manage.py createsuperuser
-   ```
-   - Follow the prompts to enter a username, email, and password.
-2. Access the Django admin panel:
-   ```
-   http://127.0.0.1:8000/admin/
-   ```
-3. Log in using the superuser credentials you just created.
-4. You can now view and manage Users, Appliances, Logs, and more.
-
----
-
-📘 You're now ready to explore the Smart Home System!
