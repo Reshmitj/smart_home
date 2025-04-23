@@ -29,7 +29,7 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
    ```
 4. Install project dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install django djangorestframework djangorestframework-simplejwt corsheaders
    ```
 5. Run database migrations:
    ```bash
