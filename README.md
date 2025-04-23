@@ -39,6 +39,10 @@ Welcome to the Smart Home Control System! This guide will help you set up both t
 - Install **Node.js** (v18+): [https://nodejs.org/](https://nodejs.org/)
 - npm is bundled with Node.js
 
+For a detailed step-by-step guide on installing Node.js on Windows:
+
+📘 https://www.geeksforgeeks.org/install-node-js-on-windows/
+
 ### Steps
 
 1. Open a terminal and clone the frontend repository:
