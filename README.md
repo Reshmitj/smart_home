@@ -70,7 +70,7 @@ For a detailed step-by-step guide on installing Node.js on Windows: 📘 https:/
    ```bash
    python manage.py runserver
    ```
-2. Backend will be available at:
+2. Backend will be available at: This page will show you the tables and datas
    ```
    http://127.0.0.1:8000/admin
    ```
@@ -88,7 +88,7 @@ For a detailed step-by-step guide on installing Node.js on Windows: 📘 https:/
    ```bash
    npm start
    ```
-3. React app will be available at:
+3. React app will be available at: This page shows the actual UI
    ```
    http://localhost:3000/
    ```
