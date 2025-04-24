@@ -49,9 +49,7 @@ For a detailed step-by-step guide on installing python on Windows: https://www.g
 - Install **Node.js** (v18+): [https://nodejs.org/](https://nodejs.org/)
 - npm is bundled with Node.js
 
-For a detailed step-by-step guide on installing Node.js on Windows:
-
-📘 https://www.geeksforgeeks.org/install-node-js-on-windows/
+For a detailed step-by-step guide on installing Node.js on Windows: 📘 https://www.geeksforgeeks.org/install-node-js-on-windows/
 
 ### Steps
 
