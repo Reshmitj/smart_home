@@ -95,7 +95,7 @@ For a detailed step-by-step guide on installing Node.js on Windows:
    ```
    http://localhost:3000/
    ```
-**⚠️ Note:** Please run backend and frontend in separate terminals.
+**⚠️ Note:** Please Run the backend and frontend simultaneously in two terminals.
 
 ---
 
